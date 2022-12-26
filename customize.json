@@ -1,11 +1,11 @@
 {
   "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
-  "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "name": "NingNing",
+  "greetingText": "Happy birthday to NingDad btw!",
+  "wishText": "Every time I think of you, I find myself smiling without conscious. :)",
+  "imagePath": "img/birthday.png",
+  "text1": "It's your suffering day! Headache. Buttache. throatache :(",
+  "textInChatBox": "patpat~ blabla(not funny jokes)...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "wishHeading": "I'll always be with you",
+  "outroText": "Okay, now come back and tell me if you feel better.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
